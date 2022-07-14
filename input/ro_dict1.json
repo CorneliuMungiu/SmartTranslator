@@ -1,0 +1,59 @@
+[
+  {
+    "word": "banana",
+    "word_en": "banana",
+    "type": "noun",
+    "singular": [
+      "banana"
+    ],
+    "plural": [
+      "banane"
+    ],
+    "definitions": [
+      {
+        "dict": "Dicționar universal al limbei române, ediția a VI-a)",
+        "dictType": "definitions",
+        "year": 2010,
+        "text": [
+          "Fruct de banan având culoare galbenă, formă lunguiață, miez făinos, zaharos și aromat",
+          "Piesă de contact electric formată dintr-un mic cilindru metalic învelit pe jumătate în ebonită, care se montează la capătul unei conducte de curent."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cântăreaţă",
+    "word_en": "singer",
+    "type": "noun",
+    "singular": [
+      "cântăreaţă",
+      "cântăreţ"
+    ],
+    "plural": [
+      "cântăreaţi",
+      "cantareti"
+    ],
+    "definitions": [
+      {
+        "dict": "DEX '09 (2009)",
+        "dictType": "definitions",
+        "year": 2011,
+        "text": [
+          "Persoană care cântă; spec. care are profesiunea de a cânta",
+          "Persoană care execută cântările și citirile în serviciile religioase",
+          "Am adaugat o noua definitie"
+        ]
+      },
+      {
+        "dict": "DEX '09 (2021)",
+        "dictType": "synonyms",
+        "year": 2021,
+        "text": [
+          "gurist",
+          "dascăl",
+          "diac"
+        ]
+      }
+    ]
+  }
+]

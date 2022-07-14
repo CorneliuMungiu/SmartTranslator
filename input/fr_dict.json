@@ -1,0 +1,384 @@
+[
+  {
+    "word": "aller",
+    "word_en": "walk",
+    "type": "verb",
+    "singular": [
+      "vais",
+      "vas",
+      "va"
+    ],
+    "plural": [
+      "allons",
+      "allez",
+      "vont"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 1998,
+        "text": [
+          "Se mouvoir d'un lieu vers un autre, s'y rendre, Se déplacer pour accomplir une action.",
+          "En parlant d'une voie, d'un moyen de transport.",
+          "Avoir telle destination, conduire, mener."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "chat",
+    "word_en": "cat",
+    "type": "noun",
+    "singular": [
+      "chat"
+    ],
+    "plural": [
+      "chats"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "greffier",
+          "mistigri",
+          "matou",
+          "minet"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Mammifère carnivore (félidé), sauvage ou domestique, au museau court et arrondi",
+          "Familier. Terme d'affection, de tendresse adressé à quelqu'un",
+          "Jeu d'enfants dans lequel un des joueurs, le chat, poursuit les autres et tente de les toucher"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "chien",
+    "word_en": "dog",
+    "type": "noun",
+    "singular": [
+      "chien"
+    ],
+    "plural": [
+      "chiens"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "cabot",
+          "clébard",
+          "clebs",
+          "toutou",
+          "roquet",
+          "molosse"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Mammifère (canidé) carnivore aux multiples races, caractérisé par sa facilité à être domestiqué, par une course rapide, un excellent odorat et par son cri spécifique, l'aboiement.",
+          "Terme d'injure.",
+          "Personne bassement servile ou personne maltraitée et réduite à une domesticité honteuse."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dessin",
+    "word_en": "drawing",
+    "type": "noun",
+    "singular": [
+      "dessin"
+    ],
+    "plural": [
+      "dessins"
+    ],
+    "definitions": [
+      {
+        "dict": "GoogleTranslate",
+        "dictType": "definitions",
+        "year": 2021,
+        "text": [
+          "a picture or diagram made with a pencil, pen, or crayon rather than paint.",
+          "an instance of selecting the winner or winners in a lottery or raffle."
+        ]
+      },
+      {
+        "dict": "GoogleTranslate",
+        "dictType": "synonyms",
+        "year": 2021,
+        "text": [
+          "croquis",
+          "ébauche",
+          "esquisse",
+          "graffiti",
+          "schéma",
+          "illustration"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "discussion",
+    "word_en": "debate",
+    "type": "noun",
+    "singular": [
+      "discussion"
+    ],
+    "plural": [
+      "discussions"
+    ],
+    "definitions": [
+      {
+        "dict": "GoogleMean",
+        "dictType": "definitions",
+        "year": 2019,
+        "text": [
+          "Action de discuter, d'examiner (qqch.), seul ou avec d'autres.",
+          "Fait de discuter (une décision), de s'y opposer par des arguments."
+        ]
+      },
+      {
+        "dict": "GoogleTranslate",
+        "dictType": "synonyms",
+        "year": 2021,
+        "text": [
+          "examen",
+          "exam",
+          "débat"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fortune",
+    "word_en": "fortune",
+    "type": "noun",
+    "singular": [
+      "fortune"
+    ],
+    "plural": [
+      "fortunes"
+    ],
+    "definitions": [
+      {
+        "dict": "GoogleTranslate",
+        "dictType": "definitions",
+        "year": 2021,
+        "text": [
+          "Puissance censée distribuer le bonheur et le malheur sans règle apparente.",
+          "Évènement ou suite d'évènements considérés dans ce qu'ils ont d'heureux ou de malheureux.",
+          "Vie, carrière ; situation sociale et matérielle due à la chance",
+          "Carrière, destin."
+        ]
+      },
+      {
+        "dict": "GoogleTranslate",
+        "dictType": "synonyms",
+        "year": 2019,
+        "text": [
+          "chance"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "je",
+    "word_en": "I",
+    "type": "noun",
+    "singular": [
+      "je"
+    ],
+    "plural": [
+      "nous"
+    ],
+    "definitions": [
+      {
+        "dict": "GoogleTranslate",
+        "dictType": "definitions",
+        "year": 2008,
+        "text": [
+          "pronom personnel"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "crêpe",
+    "word_en": "pancake",
+    "type": "noun",
+    "singular": [
+      "crêpe"
+    ],
+    "plural": [
+      "crêpes"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2008,
+        "text": [
+          "Tissu présentant un aspect ondulé caractéristique, obtenu par l'emploi de fils à forte torsion, dits « fils crêpe »"
+        ]
+      },
+      {
+        "dict": "synonymo.fr",
+        "dictType": "synonyms",
+        "year": 2015,
+        "text": [
+          "bandeau",
+          "blinis",
+          "brassage"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jeu",
+    "word_en": "game",
+    "type": "noun",
+    "singular": [
+      "jeu"
+    ],
+    "plural": [
+      "jeux"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "amusement",
+          "délassement",
+          "distraction",
+          "divertissement",
+          "passe-temps",
+          "récréation"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Activité d'ordre physique ou mental, non imposée, ne visant à aucune fin utilitaire, et à laquelle on s'adonne pour se divertir, en tirer un plaisir",
+          "Activité de loisir soumise à des règles conventionnelles, comportant gagnant(s) et perdant(s) et où interviennent, de façon variable, les qualités physiques ou intellectuelles, l'adresse, l'habileté et le hasard",
+          "Ensemble des différents jeux de hasard, en particulier ceux où l'on risque de l'argent",
+          "Ensemble des règles qui régissent un divertissement organisé"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "magasin",
+    "word_en": "store",
+    "type": "verb",
+    "singular": [
+      "magasin"
+    ],
+    "plural": [
+      "magasins"
+    ],
+    "definitions": [
+      {
+        "dict": "GoogleTranslate",
+        "dictType": "definitions",
+        "year": 2018,
+        "text": [
+          "keep or accumulate (something) for future use."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "manger",
+    "word_en": "eat",
+    "type": "verb",
+    "singular": [
+      "manger",
+      "manges",
+      "mange"
+    ],
+    "plural": [
+      "mangeons",
+      "mangez",
+      "mangent"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "absorber",
+          "becqueter",
+          "bouffer",
+          "boulotter",
+          "briffer",
+          "ingurgiter"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Porter quelque chose à sa bouche, le mâcher, le mâchonner, le ronger, le mordiller, etc. (sans généralement avaler)",
+          "Entamer quelque chose, ronger, altérer",
+          "En parlant d'un insecte, entamer quelque chose, une matière, y faire des trous"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "publier",
+    "word_en": "publish",
+    "type": "verb",
+    "singular": [
+      "publie",
+      "publies",
+      "publie"
+    ],
+    "plural": [
+      "publions",
+      "publiez",
+      "publient"
+    ],
+    "definitions": [
+      {
+        "dict": "GoogleTranslate",
+        "dictType": "definitions",
+        "year": 2008,
+        "text": [
+          "prepare and issue (a book, journal, piece of music, etc.) for public sale, distribution, or readership.",
+          "communicate (a libel) to a third party."
+        ]
+      },
+      {
+        "dict": "GoogleTranslate",
+        "dictType": "synonyms",
+        "year": 2021,
+        "text": [
+          "publier",
+          "imprimer",
+          "mettre en circulation"
+        ]
+      }
+    ]
+  }
+]

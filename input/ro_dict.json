@@ -1,0 +1,265 @@
+[
+  {
+    "word": "câine",
+    "word_en": "dog",
+    "type": "noun",
+    "singular": [
+      "câine"
+    ],
+    "plural": [
+      "câini"
+    ],
+    "definitions": [
+      {
+        "dict": "Dicționar universal al limbei române, ediția a VI-a)",
+        "dictType": "definitions",
+        "year": 1929,
+        "text": [
+          "animal domestic din familia carnivorelor digitigrade",
+          "fig. (termen de dispreț) om rău (câinele fiind considerat ca tipul răutății): câinele de tată-său Pop",
+          "nume a două constelațiuni",
+          "Mold. (sens tehnic) masă de tras doage"
+        ]
+      },
+      {
+        "dict": "Dicționar de sinonime",
+        "dictType": "synonyms",
+        "year": 1998,
+        "text": [
+          "lătrător",
+          "molie",
+          "dulău"
+        ]
+      },
+      {
+        "dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+        "dictType": "definitions",
+        "year": 2009,
+        "text": [
+          "Animal mamifer carnivor, domesticit, folosit pentru pază, vânătoare etc."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cântăreaţă",
+    "word_en": "singer",
+    "type": "noun",
+    "singular": [
+      "cântăreaţă",
+      "cântăreţ"
+    ],
+    "plural": [
+      "cântăreaţi"
+    ],
+    "definitions": [
+      {
+        "dict": "DEX '09 (2009)",
+        "dictType": "definitions",
+        "year": 2009,
+        "text": [
+          "Persoană care cântă; spec. care are profesiunea de a cânta",
+          "Persoană care execută cântările și citirile în serviciile religioase"
+        ]
+      },
+      {
+        "dict": "DEX '09 (2021)",
+        "dictType": "synonyms",
+        "year": 2021,
+        "text": [
+          "gurist",
+          "dascăl",
+          "diac"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "clătită",
+    "word_en": "pancake",
+    "type": "noun",
+    "singular": [
+      "clătită"
+    ],
+    "plural": [
+      "clătite"
+    ],
+    "definitions": [
+      {
+        "dict": "DEX '09 (2009)",
+        "dictType": "definitions",
+        "year": 2021,
+        "text": [
+          "Un fel de plăcintă subțire, prăjită în grăsime și umplută cu dulceață, marmeladă, brînză sau legume."
+        ]
+      },
+      {
+        "dict": "sin0nime.com",
+        "dictType": "synonyms",
+        "year": 1998,
+        "text": [
+          "mâncare",
+          "plăcintă",
+          "prăjitură"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "eu",
+    "word_en": "I",
+    "type": "noun",
+    "singular": [
+      "eu"
+    ],
+    "plural": [
+      "noi"
+    ],
+    "definitions": [
+      {
+        "dict": "Wiktionary",
+        "dictType": "definitions",
+        "year": 2019,
+        "text": [
+          "persoana întâi, eu se referă la persoana care vorbește."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "merge",
+    "word_en": "walk",
+    "type": "verb",
+    "singular": [
+      "merg",
+      "mergi",
+      "merge"
+    ],
+    "plural": [
+      "mergem",
+      "mergeți",
+      "merg"
+    ],
+    "definitions": [
+      {
+        "dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+        "dictType": "definitions",
+        "year": 2021,
+        "text": [
+          "A se mișca deplasându-se dintr-un loc în altul; a se deplasa, a umbla",
+          "A putea fi înghițit ușor; a aluneca pe gât"
+        ]
+      },
+      {
+        "dict": "Micul dicționar academic, ediția a II-a",
+        "dictType": "definitions",
+        "year": 2010,
+        "text": [
+          "A se da peste cap",
+          "A preceda în spațiu",
+          "A frecventa cursurile unei instituții de învățământ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mânca",
+    "word_en": "eat",
+    "type": "verb",
+    "singular": [
+      "mănânc",
+      "mănânci",
+      "mănâncă",
+      "mânca"
+    ],
+    "plural": [
+      "mâncăm",
+      "mâncați",
+      "mănâncă"
+    ],
+    "definitions": [
+      {
+        "dict": " DEX",
+        "dictType": "definitions",
+        "year": 2009,
+        "text": [
+          "A mesteca un aliment în gură și a-l înghiți; a folosi în alimentație, a consuma"
+        ]
+      },
+      {
+        "dict": "sin0nime.com",
+        "dictType": "synonyms",
+        "year": 2010,
+        "text": [
+          "mesteca"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pisică",
+    "word_en": "cat",
+    "type": "noun",
+    "singular": [
+      "pisică"
+    ],
+    "plural": [
+      "pisici"
+    ],
+    "definitions": [
+      {
+        "dict": "Dicționar de sinonime",
+        "dictType": "synonyms",
+        "year": 1998,
+        "text": [
+          "mâță",
+          "cotoroabă",
+          "cătușă"
+        ]
+      },
+      {
+        "dict": "Dicționarul explicativ al limbii române, ediția a II-a",
+        "dictType": "definitions",
+        "year": 2002,
+        "text": [
+          "Mamifer domestic carnivor din familia felinelor, cu corpul suplu, acoperit cu blană deasă și moale de diferite culori, cu capul rotund, cu botul foarte scurt, cu maxilarele puternice și cu ghearele retractile și ascuțite",
+          "Dispozitiv de agățare și de desprindere a berbecului din capătul cablului de ridicare de la sonetele cu cădere liberă",
+          "Mănunchi de sârme de oțel, folosit pentru curățarea de noroi sau de pământ a utilajelor de foraj"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "publica",
+    "word_en": "publish",
+    "type": "noun",
+    "singular": [
+      "publica",
+      "publici",
+      "publică"
+    ],
+    "plural": [
+      "publicăm",
+      "publicați",
+      "publică"
+    ],
+    "definitions": [
+      {
+        "dict": "MDA2 (2010)",
+        "dictType": "definitions",
+        "year": 2009,
+        "text": [
+          "A face cunoscut tuturor ceva prin tipărire, afișare etc.; a face să apară, a tipări cărți, articole, informații etc",
+          "A face să apară prin intermediul tiparului sau al altor mijloace tehnice de multiplicare Si: a da publicității "
+        ]
+      },
+      {
+        "dict": "MDA2 (2010)",
+        "dictType": "synonyms",
+        "year": 2021,
+        "text": [
+        ]
+      }
+    ]
+  }
+]
